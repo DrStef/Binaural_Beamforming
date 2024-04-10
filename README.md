@@ -1,6 +1,6 @@
 # Binaural_Beamforming
 
-Binaural Beamformer: An early Proof of Concept for Wearable Audio Devices
+Binaural Beamformer: An early Proof of Concept for Wearable Audio Devices <br>
 Stéphane D.  March, 2024.
 
 Binaural Beamforming, using signals from microphone
