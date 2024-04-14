@@ -17,7 +17,15 @@ from the NSERC-EERS Industrial Research Chair in
 In-Ear Technologies (CRITIAS) and from ICAR labo-
 ratories (Infrastructure commune en acoustique pour la
 recherche ÉTS-IRSST)
- 
+
+Demo: 
+
+Single Microphones Left-Right, source at 300deg. 
+
+https://github.com/DrStef/Binaural_Beamforming/blob/main/0-SingleMics_Binau300deg_v02.wav
+
+
+
 
 <ul><ul> 
  
