@@ -12,15 +12,12 @@ the microphone arrays, it offers strong interfering noise
 reduction potential due to the large inter-array distance
 and the natural attenuation provided by the head.
 
-
-<ul><ul> 
 The authors acknowledge the technical support received
 from the NSERC-EERS Industrial Research Chair in
 In-Ear Technologies (CRITIAS) and from ICAR labo-
 ratories (Infrastructure commune en acoustique pour la
 recherche ÉTS-IRSST)
  
-<ul><ul> 
 
 <ul><ul> 
  
