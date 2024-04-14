@@ -13,5 +13,11 @@ reduction potential due to the large inter-array distance
 and the natural attenuation provided by the head.
 
 
+<ul><ul> 
+ 
+ |<p align="center"> <img src="https://github.com/DrStef/Binaural_Beamforming/blob/main/20150528_154741.jpg" width="150"/>                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Binaural_Beamforming/blob/main/HATS-Validations-400x299.jpg" width="200"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Binaural_Beamforming/blob/main/head001-350x400.png" width="200" /></p>|
+| ---       | ---                          |   ---         |
+ |<p align="center"> <sub><b> <i> Prototype </i> </b> </sub>  </p>  |  <p align="center"> <sub><b><i> Validation in an anechoic chamber </i> </b> </sub>  </p>       |   <p align="center"> <sub><b><i> Boundary Element Model </i></b> </sub>  </p> |
 
+ </ul></ul>
 
