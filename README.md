@@ -14,8 +14,17 @@ and the natural attenuation provided by the head.
 
 
 <ul><ul> 
+The authors acknowledge the technical support received
+from the NSERC-EERS Industrial Research Chair in
+In-Ear Technologies (CRITIAS) and from ICAR labo-
+ratories (Infrastructure commune en acoustique pour la
+recherche ÉTS-IRSST)
  
- |<p align="center"> <img src="https://github.com/DrStef/Binaural_Beamforming/blob/main/20150528_154741.jpg" width="150"/>                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Binaural_Beamforming/blob/main/HATS-Validations-400x299.jpg" width="200"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Binaural_Beamforming/blob/main/head001-350x400.png" width="200" /></p>|
+<ul><ul> 
+
+<ul><ul> 
+ 
+ |<p align="center"> <img src="https://github.com/DrStef/Binaural_Beamforming/blob/main/20150528_154741.jpg" width="250"/>                        </p>    |  <p align="center"> <img src="https://github.com/DrStef/Binaural_Beamforming/blob/main/HATS-Validations-400x299.jpg" width="200"  /> </p> | <p align="center"> <img src= "https://github.com/DrStef/Binaural_Beamforming/blob/main/head001-350x400.png" width="200" /></p>|
 | ---       | ---                          |   ---         |
  |<p align="center"> <sub><b> <i> Prototype </i> </b> </sub>  </p>  |  <p align="center"> <sub><b><i> Validation in an anechoic chamber </i> </b> </sub>  </p>       |   <p align="center"> <sub><b><i> Boundary Element Model </i></b> </sub>  </p> |
 
