@@ -1,6 +1,9 @@
 # Binaural_Beamforming
 
 Binaural Beamformer: An early Proof of Concept for Wearable Audio Devices <br>
+Authors: Stephane Dedieu (Bloo Audio Inc.), Jeremie Voix (ETS- Montreal), Thomas Padois (ETS - Montreal) 
+
+
 Dr. Stéphane Dedieu,  March, 2024.
 
 Binaural Beamforming, using signals from microphone
