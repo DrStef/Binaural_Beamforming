@@ -28,3 +28,24 @@ recherche ÉTS-IRSST)
 
  </ul></ul>
 
+
+Article presented at the Acoustic Week in Canada in Montreal on October 3-6, 2023: 
+
+#### <ul>[<i>"Binaural Beamformer: An early Proof of Concept for Wearables Audio Devices"</i>](https://github.com/DrStef/Binaural_Beamforming/blob/main/ACW2023_BinauralBeamforming.pdf)</ul>
+
+Presentation at the conference: 
+
+#### <ul>[Presentation - pdf](https://github.com/DrStef/Binaural_Beamforming/blob/main/Presentation_BinauralBeamforming_v5.pdf)</ul>
+
+
+Audio demos, a headphone or headset is recommended: 
+
+
+
+
+
+
+
+
+
+
