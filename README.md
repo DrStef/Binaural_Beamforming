@@ -1,8 +1,7 @@
 # Binaural_Beamforming
 
-Binaural Beamformer: An early Proof of Concept for Wearable Audio Devices <br>
-Authors: Stephane Dedieu (Bloo Audio Inc.), Jeremie Voix (ETS- Montreal), Thomas Padois (ETS - Montreal) 
-
+"Binaural Beamformer: An early Proof of Concept for Wearable Audio Devices" <br>
+Authors: <i> Dr. Stephane Dedieu (Bloo Audio Inc.), Dr. Jeremie Voix (ETS- Montreal), Dr. Thomas Padois (ETS - Montreal) </i>
 
 Dr. Stéphane Dedieu,  March, 2024.
 
