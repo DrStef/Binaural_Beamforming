@@ -35,14 +35,13 @@ Article presented at the Acoustic Week in Canada in Montreal on October 3-6, 202
 
 Presentation at the conference: 
 
-#### <ul>[Presentation - pdf](https://github.com/DrStef/Binaural_Beamforming/blob/main/Presentation_BinauralBeamforming_v5.pdf)</ul>
-
+#### <ul>[<i>Presentation - pdf</i>](https://github.com/DrStef/Binaural_Beamforming/blob/main/Presentation_BinauralBeamforming_v5.pdf)</ul>
 
 Download Audio demo (.wav files). A headphone or a headset is recommended: 
 
-#### <ul>[1-Single Microphone output](https://github.com/DrStef/Binaural_Beamforming/blob/main/0-SingleMics_Binau300deg_v02.wav)</ul>
-#### <ul>[2-Binaural Beamformer output (source at 300 deg)](https://github.com/DrStef/Binaural_Beamforming/blob/main/1-BeamformerOutput_Binau300deg_v02.wav)</ul>
-#### <ul>[3-Binaural Generalized Sidelobe Canceller (source at 300 deg)](https://github.com/DrStef/Binaural_Beamforming/blob/main/2-GSC_THgain_Binau300deg_v02.wav)</ul>
+#### <ul>[<i>1-Single Microphone output</i>](https://github.com/DrStef/Binaural_Beamforming/blob/main/0-SingleMics_Binau300deg_v02.wav)</ul>
+#### <ul>[<i>2-Binaural Beamformer output (source at 300 deg)</i>](https://github.com/DrStef/Binaural_Beamforming/blob/main/1-BeamformerOutput_Binau300deg_v02.wav)</ul>
+#### <ul>[<i>3-Binaural Generalized Sidelobe Canceller (source at 300 deg)</i>](https://github.com/DrStef/Binaural_Beamforming/blob/main/2-GSC_THgain_Binau300deg_v02.wav)</ul>
 
 
 
